@@ -13,4 +13,4 @@ Zongyi Wang
 - ex3: object detection using Hough transformation
 - ex4: classification using K-means
 
-file:///home/john/Desktop/repos/AIA/ex1/submission/Group-U/Data/Output/result.jpg
+![FFT](file:///home/john/Desktop/repos/AIA/ex1/submission/Group-U/Data/Output/result.jpg)
