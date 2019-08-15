@@ -12,3 +12,5 @@ Zongyi Wang
 - ex2: classification using fourier descriptors
 - ex3: object detection using Hough transformation
 - ex4: classification using K-means
+
+file:///home/john/Desktop/repos/AIA/ex1/submission/Group-U/Data/Output/result.jpg
